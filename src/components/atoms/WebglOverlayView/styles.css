@@ -1,0 +1,5 @@
+.map-marker-label {
+  font-size: 12px;
+  color: #888;
+  transform: translate3d(-50%, 0, 0);
+}
